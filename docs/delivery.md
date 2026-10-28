@@ -1,6 +1,6 @@
 # Entrega de engenharia — 28 de outubro de 2026
 
-O repositório começou vazio, sem commits e sem arquivos de aplicação. Todos os arquivos listados abaixo foram criados nesta entrega; nenhum código preexistente foi substituído. Código não foi enviado ao GitHub nem publicado em produção.
+O repositório começou vazio, sem commits e sem arquivos de aplicação. Todos os arquivos listados abaixo foram criados nesta entrega; nenhum código preexistente foi substituído. Na etapa seguinte de conexão, a fundação foi enviada ao GitHub em `goltzmam/eeze`, branch `main` (commit inicial `2d1dcbb`). Deploy na Vercel e configuração remota do Supabase ainda dependem de autenticação e identificação dos projetos.
 
 ## Fases e aceite real
 

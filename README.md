@@ -46,4 +46,5 @@ PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:e2e
 - [Conectividade](docs/wearable-integration.md)
 - [Desenvolvimento](docs/development.md)
 - [Publicação](docs/deployment.md)
+- [Conectar GitHub, Supabase e Vercel](docs/vercel-supabase.md)
 - [Entrega e limitações](docs/delivery.md)
